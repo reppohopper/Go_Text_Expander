@@ -2,6 +2,9 @@
 
 Go Text Expander is a text expansion tool written in Golang. It captures keyboard input, matches specific patterns (like `/shortcut*`), and expands them into predefined longer texts.
 
+## Demo
+![Demo GIF hosted on Giphy](https://giphy.com/embed/oUglZqjmKdjH2n4CsD)
+
 ## Dependencies
 
 The program has the following dependencies:
