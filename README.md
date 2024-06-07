@@ -25,6 +25,9 @@ go get github.com/atotto/clipboard
 
 Set your expansions file path as an environment variable named EXPANSIONS_PATH.
 
-Run the program with the command go run main.go.
+Run the program with the command 
+```bash
+go run main.go
+```
 
 Press Ctrl+C to stop the program.
